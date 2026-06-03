@@ -3,7 +3,6 @@ def main():
 # file: initials .py
 # Descirption : print out my initials
 # Assignment Number 1
-#
 #Name: LAWSON ARHIN DAVID
 #STUDENT ID:2425403074
 # Email: 2425403074@live.gctu.edu.gh
