@@ -1,3 +1,4 @@
+
 def main():
 # file: initials .py
 # Descirption : print out my initials
@@ -12,15 +13,17 @@ def main():
 print()
 print("...LAD")
 print()
-print("...LLL.....................AAAA...............DDDDDDDD........")
-print("...LLL.................AAA......AAA........DDD........DD......")
-print("...LLL.................AAA......AAA........DDD........DDD.....")
-print("...LLL.................AAA......AAA........DDD........DDD.....")
-print("...LLL.................AAAAAAAAAAAA........DDD........DDD.....")
-print("...LLL.................AAA......AAA........DDD........DDD.....")
-print("...LLL.................AAA......AAA........DDD........DDD.....")
-print("...LLL............**...AAA......AAA...**...DDD........DD....**")
-print("...LLLLLLLLLLLL...**...AAA......AAA...**...DDDDDDDDDDDD.....**")
+print("...LLL.....................AAAA...............DDDDDDDD.......")
+print("...LLL.................AAA......AAA........DDD........DD.....")
+print("...LLL.................AAA......AAA........DDD........DDD....")
+print("...LLL.................AAA......AAA........DDD........DDD....")
+print("...LLL.................AAAAAAAAAAAA........DDD........DDD....")
+print("...LLL.................AAA......AAA........DDD........DDD....")
+print("...LLL.................AAA......AAA........DDD........DDD....")
+print("...LLL.................AAA......AAA........DDD........DD.....")
+print("...LLL............**...AAA......AAA...**...DDD........DD...**")
+print("...LLLLLLLLLLLL...**...AAA......AAA...**...DDDDDDDDDDDD....**")
+print()
 
 
 
